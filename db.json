@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "first_name": "Abdulaziz",
+      "last_name": "Izzatullayev",
+      "username": "admin",
+      "status": true,
+      "photo": "",
+      "password": "1",
+      "id": 1
+    },
+    {
+      "first_name": "John",
+      "last_name": "Doe",
+      "username": "johnDoe",
+      "status": false,
+      "photo": "",
+      "password": "111",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "first_name": "Imron",
+      "last_name": "Izzatullayev",
+      "username": "imron",
+      "status": true,
+      "password": "1",
+      "photo": ""
+    }
+  ]
+}
